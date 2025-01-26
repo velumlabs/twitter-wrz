@@ -1,4 +1,4 @@
-module github.com/telalabs/tyr
+module github.com/velumlabs/wrz
 
 go 1.23.3
 
